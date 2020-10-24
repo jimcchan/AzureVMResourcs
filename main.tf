@@ -77,4 +77,3 @@ resource "azurerm_virtual_machine" "app_vm" {
     environment = "Production"
   }
 }
-
